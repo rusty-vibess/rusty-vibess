@@ -1,14 +1,16 @@
 <h1 align="center">Hi, I'm George Rust 👋</h1>
 <h3 align="center">Software Engineer 👨🏻‍💻 </h3>
-
-## 💫 About Me:
-🔭 I currently work at Visualist<br>
-🌱 I'm currently spending my time learning Rust and more about ML under the hood! 😎<br>💬 My degree was in Electronic Music Computing, so I love to talk about audio<br>🤝 I spend a lot of time writing in the snake language 🐍, but I'm hoping to switch to the crab 🦀<br>⚡ Professional experience building APIs and a variety of Backend services<br>😁 Unprofessional experience, generally faffing around with computers<br>
+🔭 Currently working at Visualist<br>
+🌱 Currently spending my time learning Rust and more about ML under the hood! 😎<br>
+💬 My degree was in Electronic Music Computing, so I love to talk about audio<br>
+🤝 I spend a lot of time writing in the snake language 🐍, but I'm hoping to switch to the crab 🦀<br>
+⚡ Professional experience building APIs and a variety of Backend services<br>
+😁 Unprofessional experience, generally faffing around with computers<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rusty-vibes) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
