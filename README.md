@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm George Rust 👋</h1>
 <h3 align="center">Software Engineer 👨🏻‍💻 </h3>
 
-- 🔭 Backend and Machine Learning Engineer at Visualist<br>
+- 🔭 Backend and Machine Learning Engineer previously at Visualist<br>
 - 🌱 Currently spending my time learning Rust and more about ML under the hood! 😎<br>
 - 💬 My degree was in Electronic Music Computing, so I love to talk about audio<br>
 - 🤝 I spend a lot of time writing in the snake language 🐍, but I'm hoping to switch to the crab 🦀<br>
