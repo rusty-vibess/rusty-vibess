@@ -1,12 +1,11 @@
 <h1 align="center">Hi, I'm George Rust 👋</h1>
-<h3 align="center">Software Engineer 👨🏻‍💻 </h3>
+<h3 align="center">Software Engineer 👨🏻‍💻</h3>
 
-- 🔭 Backend and Machine Learning Engineer previously at Visualist<br>
-- 🌱 Currently spending my time learning Rust and more about ML under the hood! 😎<br>
-- 💬 My degree was in Electronic Music Computing, so I love to talk about audio<br>
-- 🤝 I spend a lot of time writing in the snake language 🐍, but I'm hoping to switch to the crab 🦀<br>
-- ⚡ Professional experience building APIs and a variety of Backend services<br>
-- 😁 Unprofessional experience, generally faffing around with computers<br>
+- ⚔️ Currently sharpening my sword in general DSA and low-level comp eng/embedded systems 😎<br>
+- 💬 My degree was in Electronic Music Computing, so I love to talk audio<br>
+- 🤝 I spend a lot of time writing in the snake language 🐍, but I'm friendly to the crab 🦀 and the C 🌊<br>
+- ⚡ Professional experience building APIs, Backend services and ML features<br>
+- 🔭 Open to exploring new opportunities!<br>
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rusty-vibes) 
