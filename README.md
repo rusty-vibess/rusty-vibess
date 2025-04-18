@@ -1,4 +1,4 @@
-<h1 align="center">I'm George Rust 👋</h1>
+<h1 align="center">Call me Rusty</h1>
 
 Articles coming soon.
 
