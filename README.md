@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm George Rust</h1>
 
-I do stuff with all these things.
+I do stuff with all these things. <br>
 Website coming soon.
 
 #### 🧠 Languages
