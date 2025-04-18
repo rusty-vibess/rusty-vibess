@@ -1,8 +1,7 @@
 <h1 align="center">Hi I'm George Rust</h1>
+My site coming soon.
 
-I do stuff with all these things. <br>
-Website coming soon.
-
+### I do things with this stuff:
 #### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=2364aa)
 ![C++](https://img.shields.io/badge/C++-1e1f24?style=for-the-badge&logo=c%2b%2b&logoColor=00c9b7)
