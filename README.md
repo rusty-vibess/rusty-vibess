@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm George Rust</h1>
-My site coming soon.
+My own site is coming soon.
 
-### I do things with this stuff:
+### The stuff I use:
 #### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=2364aa)
 ![C++](https://img.shields.io/badge/C++-1e1f24?style=for-the-badge&logo=c%2b%2b&logoColor=00c9b7)
@@ -21,7 +21,7 @@ My site coming soon.
 ![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-#### 🧠 ML / Scientific Computing
+#### 🧐 ML / Scientific Computing
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffdf00?style=for-the-badge&logo=huggingface&logoColor=111111)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=white)
