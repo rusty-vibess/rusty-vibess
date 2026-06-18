@@ -1,6 +1,3 @@
-<h1 align="center">I'm George Rust</h1>
-My own site is coming soon.
-
 ### Here's the stuff I use:
 #### 🧠 Languages
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=2364aa)
